@@ -1,0 +1,20 @@
+{
+    "name": "First Music NFT by Sourin",
+    "description": "First music NFT",
+    "image": "ipfs://QmVCDijgMqk8mBCv8qFBzqGEtrGNX9Xx7zbyepTECHvfLS",
+    "animation_url": "ipfs://Qmet8SSYQUJ3UScohfggZ8ujdWbscovrmqcEkXbJ9G2Bwk",
+    "attributes": [
+      {
+        "trait_type": "Music",
+        "value": "Guitar"
+      },
+      {
+        "trait_type": "Guitar-Type",
+        "value": "Acoustic"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Vocals"
+      }
+    ]
+  }
